@@ -1,4 +1,7 @@
-#!/usr/bim/env php
+# Documentação do Componente
+
+# Exemplo de Uso
+
 <?php
 
 require 'vendor/autoload.php';

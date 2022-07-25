@@ -17,5 +17,5 @@
         "symfony/css-selector": "^5.4"
     },
     "license": "GPL-3.0",
-    "bin": ["buscar-cursos.php"]
+    "bin": ["buscar-cursos"]
 }

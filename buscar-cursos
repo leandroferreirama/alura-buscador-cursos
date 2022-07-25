@@ -1,4 +1,4 @@
-#!/usr/bim/env php
+#!/usr/bin php
 <?php
 
 require 'vendor/autoload.php';
